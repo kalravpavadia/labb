@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>lab 2</title>
+<style>
+#id1 {
+  color: red;
+}
+#id2 {
+  color: red;
+}
+.c1 {
+  background-color: lightblue;
+  padding: 20px;
+  text-align: center;
+}
+  
+  
+}
+</style>
+</head>
+<body>
+<h1 style="background-color:rgb(255, 255, 00);">ehwbfhjEWHJFVJE</h1>
+<h1 style="background-color:#ff6347;">BREGHJABGREH</h1>
+<h1 style="background-color:hsl(91, 69%, 50%);">HABGREBERRE</h1>
+<h1 style="background-color:rgba(255, 99, 71, 0.3);">REAHBGHJREVG</h1>
+<h1 style="background-color:hsla(192, 100%, 64%, 0.9);">GRAVHHAREBH</h1>
+
+<h1 class="c1" id="id1" title="blue title">DBHBABVBHB</h1>
+<h1 class="c1" id="id2">HFBVAHBREVJHA</h1>
+
+ 
+</body>
+</html>
